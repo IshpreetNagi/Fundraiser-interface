@@ -1,5 +1,5 @@
-//Oct.19, 2020
-//By: Ishpreet Nagi
+//Last Updated: Oct.19, 2020
+//Written By: Ishpreet Nagi
 
 #include <iostream> //adding all my libraries
 #include <bits/stdc++.h>
